@@ -1,0 +1,7 @@
+# Build Branch
+android/
+ios/
+linux/
+macos/
+windows/
+build/
